@@ -15,13 +15,13 @@ Get ready to revolutionize the way you approach JEE exam preparation with our co
 
 <div align="center">
 
-NCERT Books is currently unavailable on Google Play and F-Droid
+NCERT Books is currently unavailable on Google Play, download it from Github.
 
   <a href="">
       <img alt="Get it on Google Play" height="80" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" />
       </a>  
-      <a href="">
-          <img alt="Get it on F-Droid" height="80" src="https://f-droid.org/badge/get-it-on.png" />
+      <a href="https://github.com/aakifnehal/NCERT-apk/releases/download/v1.0.0/NCERT.Books.apk">
+          <img alt="Get it on Github" height="67" src="https://github.com/aakifnehal/NCERT-apk/blob/main/source/github_download.png" />
   </a>
 
 </div>
